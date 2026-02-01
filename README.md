@@ -1,6 +1,6 @@
 # 🔐 AHiddenMessageCTF
 
-AHiddenMessageCTF is a small, fun challenge website I built to practice creating CTF-style puzzles and hidden-message mechanics.
+[AHiddenMessageCTF](https://ahiddenmessage.pages.dev/) is a small, fun challenge website I built to practice creating CTF-style puzzles and hidden-message mechanics.
 
 This project focuses on **observation, pattern recognition, and patience** rather than brute force or automated tools.
 
